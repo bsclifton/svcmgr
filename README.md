@@ -1,7 +1,7 @@
 ## svcmgr
 A very simple Windows app that puts itself in the tray.
 
-Add a shortcut to `shell:startup` and enjoy
+Add a shortcut to `shell:startup` and enjoy. May require admin access when launching.
 
 Tray icon:
 - uses _r/stopped.ico when service is stopped
