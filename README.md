@@ -1,6 +1,8 @@
 ## svcmgr
 A very simple Windows app that puts itself in the tray.
 
+![Example interface](/i/ui.png?raw=true "Example interface")
+
 Add a shortcut to `shell:startup` and enjoy. May require admin access when launching.
 
 Tray icon:
